@@ -5,4 +5,4 @@ Steps for implementing redux:
 - Design the store
 - List our actions (What to do)
 - Create reducer function (How to do)
-- Create redux store
+- Create the redux store
